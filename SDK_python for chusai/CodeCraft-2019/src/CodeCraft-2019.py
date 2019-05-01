@@ -17,8 +17,6 @@ logging.basicConfig(level=logging.DEBUG,
 '''
 
 
-
-
 '''
 读取文件
 '''
